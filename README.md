@@ -1,2 +1,3 @@
 # Cocktail-app
-Cocktail-app
+npm install
+npm start
